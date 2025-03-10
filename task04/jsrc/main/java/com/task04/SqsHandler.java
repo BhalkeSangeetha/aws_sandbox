@@ -24,9 +24,11 @@ public class SqsHandler implements RequestHandler<Object, Map<String, Object>> {
 
 	public Map<String, Object> handleRequest(Object request, Context context) {
 		context.getLogger().log("Received event: " + request.toString() + "\n");
+
 		Map<String, Object> resultMap = new HashMap<String, Object>();
 		resultMap.put("statusCode", 200);
-		resultMap.put("body", "Processed SQS Messages Successfully");
+		resultMap.put("body", "Hello from Lambda");
+
 		return resultMap;
 	}
 }
