@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eabdb5da-f51f-4b7a-9d6c-cf53815218c0" name="Changes" comment="task11" />
+    <list default="true" id="eabdb5da-f51f-4b7a-9d6c-cf53815218c0" name="Changes" comment="task11">
+      <change afterPath="$PROJECT_DIR$/task12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/app/lambdas/api_handler/deployment_resources.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/app/lambdas/api_handler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/app/lambdas/api_handler/lambda_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/app/lambdas/api_handler/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/app/lambdas/api_handler/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/deployment_resources.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/export/x8y2fml4eb_oas_v3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/swagger_src/task12_api_ui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task12/swagger_src/task12_api_ui/swagger_ui_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741929531950</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task11">
+      <option name="closed" value="true" />
+      <created>1741929881137</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741929881137</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
